@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: "k6-load-testing-result"
+    uid: k6-load-testing-result
+    orgId: 1
+    folder: ""
+    folderUid: ""
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards/k6-load-testing-result/

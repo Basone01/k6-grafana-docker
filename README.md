@@ -37,3 +37,8 @@ make down
 
 # Reference
 - [Youtube - CodeBangkok : Go Programming - Redis](https://www.youtube.com/watch?v=4EBhkFWN16w)
+- [K6 Lifecycle](https://k6.io/docs/using-k6/test-lifecycle/)
+- [Grafana Provisioning](https://grafana.com/docs/grafana/latest/administration/provisioning/#provision-folders-structure-from-filesystem-to-grafana)
+- [Grafana K6 Load Testing Results Dashboard](https://grafana.com/grafana/dashboards/2587-k6-load-testing-results/)
+- [Make](https://www.gnu.org/software/make/manual/make.html)
+- [Docker Compose](https://docs.docker.com/compose/gettingstarted/)

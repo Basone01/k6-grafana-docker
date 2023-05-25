@@ -1,5 +1,5 @@
 # K6 Load Tester + Grafana Dashboard
-K6 load testing tools with Grafana Dashboard provisioning setup
+K6 load testing tools with Grafana Dashboard provisioning setup using docker-compose
 
 # Prerequisite
 
@@ -33,3 +33,7 @@ make loadtest
 ```bash
 make down
 ```
+
+
+# Reference
+- [Youtube - CodeBangkok : Go Programming - Redis](https://www.youtube.com/watch?v=4EBhkFWN16w)
